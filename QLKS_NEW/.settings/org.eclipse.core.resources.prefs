@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/servlet/BookingDetailServlet.java=UTF-8
+encoding//src/main/java/com/servlet/BookingServlet.java=UTF-8
+encoding//src/main/java/com/servlet/CustomerManagementServlet.java=UTF-8
+encoding//src/main/java/com/servlet/EmployeeManagementServlet.java=UTF-8
+encoding//src/main/java/com/servlet/HotelInfoServlet.java=UTF-8
+encoding//src/main/java/com/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/com/servlet/ReportManagementServlet.java=UTF-8
+encoding//src/main/java/com/servlet/RoomManagementServlet.java=UTF-8
+encoding//src/main/java/com/servlet/RoomTypeManagementServlet.java=UTF-8
+encoding//src/main/webapp/views/Employee.jsp=UTF-8
+encoding//src/main/webapp/views/checkout.jsp=UTF-8
+encoding//src/main/webapp/views/hotel.jsp=UTF-8
